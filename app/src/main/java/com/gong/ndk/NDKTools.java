@@ -16,4 +16,6 @@ public class NDKTools {
 
     public static native String getStringFromNDK();
 
+    public static native String stringFromNDK();
+
 }

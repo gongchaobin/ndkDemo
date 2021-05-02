@@ -8,5 +8,19 @@
 
 JNIEXPORT jstring JNICALL Java_com_gong_ndk_NDKTools_getStringFromNDK
         (JNIEnv *env, jclass clz) {
-    return (*env)->NewStringUTF(env,"Hellow World，这是隔壁老李头的NDK的第一行代码");
+//    jstring  javaString;
+//    javaString = (*env) -> NewStringUTF(env,"Hello world");
+//
+//    const jbyte* str;
+//    jboolean isCopy;
+//
+//    str = (*env) -> GetStringUTFChars(env,javaString,&isCopy);
+//    if(0 != str) {
+//    }
 }
+
+JNIEXPORT jstring JNICALL
+Java_com_gong_ndk_NDKTools_stringFromNDK(JNIEnv *env, jclass clazz) {
+    // TODO: implement stringFromNDK()
+}
+

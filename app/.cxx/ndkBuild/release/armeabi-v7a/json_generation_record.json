@@ -5,27 +5,27 @@
   },
   {
     "level": "INFO",
-    "message": "rebuilding JSON /Users/gongchaobin/Documents/workspace/suning/ndkdemo/app/.cxx/ndkBuild/release/armeabi-v7a/android_gradle_build.json due to:"
+    "message": "rebuilding JSON /Users/gong/Documents/GitHub/ndkDemo/app/.cxx/ndkBuild/release/armeabi-v7a/android_gradle_build.json due to:"
   },
   {
     "level": "INFO",
-    "message": "- force flag, will remove stale json folder"
+    "message": "- a dependent build file changed"
   },
   {
     "level": "INFO",
-    "message": "removing stale contents from \u0027/Users/gongchaobin/Documents/workspace/suning/ndkdemo/app/.cxx/ndkBuild/release/armeabi-v7a\u0027"
+    "message": "  - /Users/gong/Documents/GitHub/ndkDemo/app/src/main/jni/Android.mk"
   },
   {
     "level": "INFO",
-    "message": "created folder \u0027/Users/gongchaobin/Documents/workspace/suning/ndkdemo/app/.cxx/ndkBuild/release/armeabi-v7a\u0027"
+    "message": "keeping json folder \u0027/Users/gong/Documents/GitHub/ndkDemo/app/.cxx/ndkBuild/release/armeabi-v7a\u0027 but regenerating project"
   },
   {
     "level": "INFO",
-    "message": "executing ndkBuild Executable : /Users/gongchaobin/Library/Android/sdk/ndk/20.0.5594570/ndk-build\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d/Users/gongchaobin/Documents/workspace/suning/ndkdemo/app/src/main/jni/Android.mk\nAPP_ABI\u003darmeabi-v7a\nNDK_ALL_ABIS\u003darmeabi-v7a\nNDK_DEBUG\u003d0\nAPP_PLATFORM\u003dandroid-16\nNDK_OUT\u003d/Users/gongchaobin/Documents/workspace/suning/ndkdemo/app/build/intermediates/ndkBuild/release/obj\nNDK_LIBS_OUT\u003d/Users/gongchaobin/Documents/workspace/suning/ndkdemo/app/build/intermediates/ndkBuild/release/lib\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n"
+    "message": "executing ndkBuild Executable : /Users/gong/Library/Android/sdk/ndk/20.0.5594570/ndk-build\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d/Users/gong/Documents/GitHub/ndkDemo/app/src/main/jni/Android.mk\nAPP_ABI\u003darmeabi-v7a\nNDK_ALL_ABIS\u003darmeabi-v7a\nNDK_DEBUG\u003d0\nAPP_PLATFORM\u003dandroid-16\nNDK_OUT\u003d/Users/gong/Documents/GitHub/ndkDemo/app/build/intermediates/ndkBuild/release/obj\nNDK_LIBS_OUT\u003d/Users/gong/Documents/GitHub/ndkDemo/app/build/intermediates/ndkBuild/release/lib\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n"
   },
   {
     "level": "INFO",
-    "message": "Executable : /Users/gongchaobin/Library/Android/sdk/ndk/20.0.5594570/ndk-build\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d/Users/gongchaobin/Documents/workspace/suning/ndkdemo/app/src/main/jni/Android.mk\nAPP_ABI\u003darmeabi-v7a\nNDK_ALL_ABIS\u003darmeabi-v7a\nNDK_DEBUG\u003d0\nAPP_PLATFORM\u003dandroid-16\nNDK_OUT\u003d/Users/gongchaobin/Documents/workspace/suning/ndkdemo/app/build/intermediates/ndkBuild/release/obj\nNDK_LIBS_OUT\u003d/Users/gongchaobin/Documents/workspace/suning/ndkdemo/app/build/intermediates/ndkBuild/release/lib\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n"
+    "message": "Executable : /Users/gong/Library/Android/sdk/ndk/20.0.5594570/ndk-build\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d/Users/gong/Documents/GitHub/ndkDemo/app/src/main/jni/Android.mk\nAPP_ABI\u003darmeabi-v7a\nNDK_ALL_ABIS\u003darmeabi-v7a\nNDK_DEBUG\u003d0\nAPP_PLATFORM\u003dandroid-16\nNDK_OUT\u003d/Users/gong/Documents/GitHub/ndkDemo/app/build/intermediates/ndkBuild/release/obj\nNDK_LIBS_OUT\u003d/Users/gong/Documents/GitHub/ndkDemo/app/build/intermediates/ndkBuild/release/lib\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n"
   },
   {
     "level": "INFO",
@@ -33,7 +33,7 @@
   },
   {
     "level": "INFO",
-    "message": "write build output /Users/gongchaobin/Documents/workspace/suning/ndkdemo/app/.cxx/ndkBuild/release/armeabi-v7a/build_output.txt"
+    "message": "write build output /Users/gong/Documents/GitHub/ndkDemo/app/.cxx/ndkBuild/release/armeabi-v7a/build_output.txt"
   },
   {
     "level": "INFO",
@@ -41,7 +41,7 @@
   },
   {
     "level": "INFO",
-    "message": "write command file /Users/gongchaobin/Documents/workspace/suning/ndkdemo/app/.cxx/ndkBuild/release/armeabi-v7a/build_command.txt"
+    "message": "write command file /Users/gong/Documents/GitHub/ndkDemo/app/.cxx/ndkBuild/release/armeabi-v7a/build_command.txt"
   },
   {
     "level": "INFO",
