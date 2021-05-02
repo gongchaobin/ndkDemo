@@ -1,0 +1,1 @@
+{"dockerExe":"/usr/local/bin/docker","dockerfileDir":"/Users/gong/Documents/GitHub/ndkDemo/app/src/main/jni/docker","dockerImgUrl":"","isImage":false,"makefilePath":"../app/src/main/jni","makefileFile":"my_swig_generate.mk","target":"%_wrap.$(MY_SWIG_TYPE)","codePath":"/Users/gong/Documents/GitHub/ndkDemo","m2Path":"/Users/gong/.m2","envScript":"","advancedDockerSettings":""}

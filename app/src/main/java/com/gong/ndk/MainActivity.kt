@@ -2,6 +2,7 @@ package com.gong.ndk
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.apress.swig.Unix
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -10,9 +11,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        tv.text = Unix.getuid().toString()
 
-        val text = NDKTools.getStringFromNDK()
-        tv.text = text
 
     }
 }

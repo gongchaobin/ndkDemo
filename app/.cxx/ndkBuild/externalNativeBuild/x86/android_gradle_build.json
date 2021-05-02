@@ -14,6 +14,10 @@
       "artifactName": "ndkdemotest-jni",
       "files": [
         {
+          "src": "/Users/gong/Documents/GitHub/ndkDemo/app/src/main/jni/Unix_wrap.c",
+          "flags": "-target i686-none-linux-android16 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot /Users/gong/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -fno-addrsig -fPIC -O2 -DNDEBUG -I/Users/gong/Documents/GitHub/ndkDemo/app/src/main/jni -DANDROID -Wa,--noexecstack -Wformat -Werror\u003dformat-security -mstackrealign"
+        },
+        {
           "src": "/Users/gong/Documents/GitHub/ndkDemo/app/src/main/jni/ndkdemotest.c",
           "flags": "-target i686-none-linux-android16 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot /Users/gong/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -fno-addrsig -fPIC -O2 -DNDEBUG -I/Users/gong/Documents/GitHub/ndkDemo/app/src/main/jni -DANDROID -Wa,--noexecstack -Wformat -Werror\u003dformat-security -mstackrealign"
         }
