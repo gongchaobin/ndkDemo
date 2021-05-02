@@ -9,5 +9,10 @@
 package com.apress.swig;
 
 public class UnixJNI {
+
+  static {
+    System.loadLibrary("ndkdemotest-jni");
+  }
+
   public final static native long getuid();
 }

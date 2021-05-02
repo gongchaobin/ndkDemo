@@ -13,6 +13,5 @@ class MainActivity : AppCompatActivity() {
 
         tv.text = Unix.getuid().toString()
 
-
     }
 }
