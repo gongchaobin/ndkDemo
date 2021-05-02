@@ -17,6 +17,8 @@ JNIEXPORT jstring JNICALL Java_com_gong_ndk_NDKTools_getStringFromNDK
 //    str = (*env) -> GetStringUTFChars(env,javaString,&isCopy);
 //    if(0 != str) {
 //    }
+
+    return (*env) -> NewStringUTF(env,"Hello world");
 }
 
 JNIEXPORT jstring JNICALL
